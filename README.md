@@ -1,4 +1,4 @@
-# EmaIls parser+decrypter
+# Emails parser+decrypter
  Собирает почты с указанных сайтов
  Делает раскодировку почт защищённых с помощью cloudflare
 # Было
